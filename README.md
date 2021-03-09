@@ -23,9 +23,16 @@ NOIRLab official color palette. Source: https://noirlab.edu/public/media/archive
     set style line 5 pt 7 ps 1.00 lt -1 lw 1.00 lc rgb "#00F15D5D"
     set style line 6 pt 7 ps 1.00 lt -1 lw 1.00 lc rgb "#00058B8C"
 
-### python (TBD)
+### python (in progress...)
 
 > contributions are welcome!
+
+    nl01 = Color('#616672')
+    nl02 = Color('#0076B6')
+    nl03 = Color('#BE5B92')
+    nl04 = Color('#FFB71B')
+    nl05 = Color('#F15D5D')
+    nl06 = Color('#058B8C')
 
 ---
 ## Example of lines and points (also with 50% transparency
