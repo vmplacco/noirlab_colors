@@ -14,7 +14,7 @@ NOIRLab official color palette. Source: https://noirlab.edu/public/media/archive
 ---
 ## Copy/paste options for different plotting programs
 
-[gnuplot](http://gnuplot.info/)
+[gnuplot](http://gnuplot.info/) line style definition
 
     set style line 1 pt 7 ps 1.00 lt -1 lw 1.00 lc rgb "#00616672"
     set style line 2 pt 7 ps 1.00 lt -1 lw 1.00 lc rgb "#000076B6"
@@ -23,3 +23,7 @@ NOIRLab official color palette. Source: https://noirlab.edu/public/media/archive
     set style line 5 pt 7 ps 1.00 lt -1 lw 1.00 lc rgb "#00F15D5D"
     set style line 6 pt 7 ps 1.00 lt -1 lw 1.00 lc rgb "#00058B8C"
 
+---
+## Example of lines and points (also with 50% transparency
+
+![example](https://raw.githubusercontent.com/vmplacco/noirlab_colors/main/noirlab_colors.png)
