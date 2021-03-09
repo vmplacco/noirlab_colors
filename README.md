@@ -4,12 +4,12 @@ NOIRLab official color palette. Source: https://noirlab.edu/public/media/archive
 
 (R,G,B) | HEX | Name | Link
 --------|-----|------|-----
-``( 97,102,114)``|``\#616672``|Very dark grayish blue|https://www.colorhexa.com/616672
-``( 0 ,118,182)``|``\#0076B6``|Strong blue|https://www.colorhexa.com/0076B6
-``(190, 91,146)``|``\#BE5B92``|Moderate pink|https://www.colorhexa.com/BE5B92
-``(255,183, 27)``|``\#FFB71B``|Gemini gold|https://www.colorhexa.com/FFB71B
-``(241, 93, 93)``|``\#F15D5D``|Soft red|https://www.colorhexa.com/F15D5D
-``(  5,138,139)``|``\#058B8C``|Dark cyan|https://www.colorhexa.com/058B8C
+``( 97,102,114)``|``#616672``|Very dark grayish blue|https://www.colorhexa.com/616672
+``(  0,118,182)``|``#0076B6``|Strong blue|https://www.colorhexa.com/0076B6
+``(190, 91,146)``|``#BE5B92``|Moderate pink|https://www.colorhexa.com/BE5B92
+``(255,183, 27)``|``#FFB71B``|Gemini gold|https://www.colorhexa.com/FFB71B
+``(241, 93, 93)``|``#F15D5D``|Soft red|https://www.colorhexa.com/F15D5D
+``(  5,138,139)``|``#058B8C``|Dark cyan|https://www.colorhexa.com/058B8C
 
 ---
 ## Copy/paste options for different plotting programs
