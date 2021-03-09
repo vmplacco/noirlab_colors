@@ -27,12 +27,12 @@ NOIRLab official color palette. Source: https://noirlab.edu/public/media/archive
 
 > contributions are welcome!
 
-    nl01 = Color('#616672')
-    nl02 = Color('#0076B6')
-    nl03 = Color('#BE5B92')
-    nl04 = Color('#FFB71B')
-    nl05 = Color('#F15D5D')
-    nl06 = Color('#058B8C')
+    nl01 = Color('#616672') # Very dark grayish blue
+    nl02 = Color('#0076B6') # Strong blue
+    nl03 = Color('#BE5B92') # Moderate pink
+    nl04 = Color('#FFB71B') # Gemini gold
+    nl05 = Color('#F15D5D') # Soft red
+    nl06 = Color('#058B8C') # Dark cyan
 
 ---
 ## Example of lines and points (also with 50% transparency)
