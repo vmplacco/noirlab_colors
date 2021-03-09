@@ -23,5 +23,3 @@ NOIRLab official color palette. Source: https://noirlab.edu/public/media/archive
     set style line 5 pt 7 ps 1.00 lt -1 lw 1.00 lc rgb "#00F15D5D"
     set style line 6 pt 7 ps 1.00 lt -1 lw 1.00 lc rgb "#00058B8C"
 
-
-[embed]http://vmplacco.github.io/files/sumula_vmplacco.pdf[/embed]
