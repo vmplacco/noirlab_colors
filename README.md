@@ -35,6 +35,6 @@ NOIRLab official color palette. Source: https://noirlab.edu/public/media/archive
     nl06 = Color('#058B8C')
 
 ---
-## Example of lines and points (also with 50% transparency
+## Example of lines and points (also with 50% transparency)
 
 ![example](https://raw.githubusercontent.com/vmplacco/noirlab_colors/main/noirlab_colors.png)
