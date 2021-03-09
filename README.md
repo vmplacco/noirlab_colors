@@ -14,7 +14,7 @@ NOIRLab official color palette. Source: https://noirlab.edu/public/media/archive
 ---
 ## Copy/paste options for different plotting programs
 
-- [gnuplot](http://gnuplot.info/)
+[gnuplot](http://gnuplot.info/)
 
     set style line 1 pt 7 ps 1.00 lt -1 lw 1.00 lc rgb "#00616672"
     set style line 2 pt 7 ps 1.00 lt -1 lw 1.00 lc rgb "#000076B6"
